@@ -1,0 +1,19 @@
+Options -Indexes
+
+# BEGIN Force to HTTPS
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+</IfModule>
+# END Force to HTTPS
+
+# START MultiPHP Version
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+    SetHandler application/x-httpd-alt-php80___lsphp
+</FilesMatch>
+# END MultiPHP Version
+
+AddType application/javascript mjs
