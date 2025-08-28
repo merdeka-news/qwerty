@@ -1,1852 +1,883 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://multidisipliner.org/ijim</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/index</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/index.php/ijim/index</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/user/register</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/login</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/peerreview</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/about/submissions</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/47</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/9</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/issue/archive</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/peerreview</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/announcement</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/46</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/about</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/about/editorialTeam</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/peerreview</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/about/privacy</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/44</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/about/contact</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/index/search</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/peerreview</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/announcement/view/2</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/42</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/announcement/view/1</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/peerreview</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/268/182</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/41</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/271/183</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/issue/view/35</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://multidisipliner.org/ijim/article/view/273/184</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/283/185</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/278/186</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/286</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about/privacy</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/286/187</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/282</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/282/188</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/275</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/275/189</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/304</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/announcement</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/304/190</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/305</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/305/191</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/306</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/306/192</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/search</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/308</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/308/193</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/464</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/309</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/464/415</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/309/194</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/463</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/310</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/463/416</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/310/195</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/558</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/314</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/558/417</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/314/196</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/611</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/315</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/611/418</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/315/197</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/623</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/316</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/623/419</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/316/198</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/632</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/317</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/632/420</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/317/199</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/647</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/312</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/647/421</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/312/200</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/657</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/313</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/657/422</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/313/201</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/656</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/307</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/article/view/656/423</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/307/202</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/openaccess</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/319</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/information/readers</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/319/203</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/information/authors</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/320</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/information/librarians</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/320/204</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/326</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/326/205</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/321</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/announcement</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/321/206</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/324</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/324/209</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/332</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/332/210</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/search</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/334</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/334/211</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/333</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/597</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/333/212</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/597/403</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/340</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/600</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/340/214</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/600/404</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/339</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/605</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/339/216</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/605/405</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/290</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/612</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/290/217</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/612/406</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/345</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/614</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/345/218</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/614/407</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/346</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/618</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/346/219</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/618/408</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/325</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/619</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/325/220</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/619/409</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/349</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/779</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/349/221</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/article/view/779/410</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/login?source=%2Findex.php%2Fijim%2Fsubmission%2Fwizard</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/openaccess</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/about/editorialTeam</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/information/readers</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/list-reviewer</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/information/authors</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/peerreview</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/information/librarians</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/focus</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/indexing</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/authors-guide</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/authorfee</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/publication-ethic</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/about/submissions</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/openaccess</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/PlagiarismPolicy</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/search</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/archive</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/copyrighlicense</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/about/contact</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/666</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/retraction</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/666/411</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/faq</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/693</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/information/readers</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/693/412</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/information/authors</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/706</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index.php/ijim/information/librarians</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/706/413</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/about/aboutThisPublishingSystem</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/794</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/login?source=https%3A%2F%2Fmultidisipliner.org%2Fijim%2Fuser%2Fprofile%2Froles</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/794/414</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/login/lostPassword</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/884</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/user/register?source=</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/884/425</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/8</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/671</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/7</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/671/434</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/6</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/777</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/5</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/777/398</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/4</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/886</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/3</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/article/view/886/435</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/2</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/openaccess</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/issue/view/1</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/information/readers</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index/user/register</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/information/authors</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index/login</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/information/librarians</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/index/about/aboutThisPublishingSystem</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acm-sig-proceedings?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acs-nano?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/apa?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/focusandscope</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/openaccess</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/chicago-author-date?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/indexing</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/harvard-cite-them-right?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/ieee?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/modern-language-association?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/reviewers</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/howto</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/vancouver?submissionId=268&publicationId=268</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/ethics</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/213</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acm-sig-proceedings?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/announcement</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acs-nano?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/apa?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/42/7</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/chicago-author-date?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/harvard-cite-them-right?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/789/397</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/ieee?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/modern-language-association?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/780/399</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/vancouver?submissionId=271&publicationId=271</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/804/400</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acm-sig-proceedings?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acs-nano?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/835/401</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/apa?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/article/view/855/402</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/chicago-author-date?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/harvard-cite-them-right?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/ieee?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/modern-language-association?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/vancouver?submissionId=273&publicationId=273</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/announcement</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acm-sig-proceedings?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acs-nano?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/apa?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/chicago-author-date?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/search</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/harvard-cite-them-right?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/ieee?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/modern-language-association?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/633</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/633/385</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/vancouver?submissionId=283&publicationId=283</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/639</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/177</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/639/386</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/article/view/176</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/667</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acm-sig-proceedings?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/667/387</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/acs-nano?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/629</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/apa?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/629/388</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/672</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/chicago-author-date?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/672/389</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/harvard-cite-them-right?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/679</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/ieee?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/679/390</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/modern-language-association?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/684</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/684/391</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://multidisipliner.org/ijim/citationstylelanguage/get/vancouver?submissionId=278&publicationId=278</loc>
+<lastmod>2025-08-28T07:58:54+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/621</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/621/392</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/640</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/640/393</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/654</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/article/view/654/394</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/openaccess</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/index</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/issue/archive</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/announcement</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about/editorialTeam</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about/contact</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/search</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/login</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/637</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/637/379</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/497</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/497/333</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/490</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/490/334</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/554</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/554/335</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/557</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/557/336</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/505</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/505/337</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/546</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/546/338</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/489</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/489/322</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/498</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/498/339</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/500</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/500/340</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/551</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/551/341</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/536</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/536/342</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/550</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/550/343</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/518</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/518/344</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/504</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/504/345</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/514</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/514/346</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/555</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/555/347</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/507</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/507/348</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/502</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/502/349</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/549</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/549/350</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/508</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/508/351</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/494</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/494/352</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/477</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/477/353</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/496</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/496/354</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/499</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/499/373</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/495</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/495/374</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/511</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/511/375</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/492</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/492/376</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/510</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/510/377</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/592</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/article/view/592/378</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/index/user/register?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/39</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/34</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/29</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/19</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/10</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/8</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/7</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/6</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/5</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/4</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/3</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/2</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/issue/view/1</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/user/register</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/mu/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/37</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/33</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/30</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/18</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/issue/view/9</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fhukmu%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/hukmu/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/22</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/36</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/11</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/31</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/issue/view/40</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fhaziq%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/haziq/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/about/submissions</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/21</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/24</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/12</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/issue/view/23</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/announcement/view/1</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Fissue%2Fdownload%2F42%2F7</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acm-sig-proceedings?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acs-nano?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/apa?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/chicago-author-date?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/harvard-cite-them-right?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/ieee?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/modern-language-association?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/vancouver?submissionId=789&amp;publicationId=789</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Farticle%2Fdownload%2F789%2F397%2F2202</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acm-sig-proceedings?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acs-nano?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/apa?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/chicago-author-date?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/harvard-cite-them-right?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/ieee?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/modern-language-association?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/vancouver?submissionId=780&amp;publicationId=780</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Farticle%2Fdownload%2F780%2F399%2F2199</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acm-sig-proceedings?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acs-nano?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/apa?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/chicago-author-date?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/harvard-cite-them-right?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/ieee?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/modern-language-association?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/vancouver?submissionId=804&amp;publicationId=804</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Farticle%2Fdownload%2F804%2F400%2F2207</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acm-sig-proceedings?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acs-nano?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/apa?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/chicago-author-date?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/harvard-cite-them-right?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/ieee?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/modern-language-association?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/vancouver?submissionId=835&amp;publicationId=835</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Farticle%2Fdownload%2F835%2F401%2F2260</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acm-sig-proceedings?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/acs-nano?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/apa?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/chicago-author-date?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/harvard-cite-them-right?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/ieee?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/modern-language-association?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/pawarta/citationstylelanguage/get/vancouver?submissionId=855&amp;publicationId=855</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Fpawarta%2Farticle%2Fdownload%2F855%2F402%2F2288</loc>
-  <lastmod>2024-12-10T02:50:42+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/27</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/26</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/25</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/17</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/16</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/15</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/14</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/issue/view/13</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Falulum%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/alulum/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/issue/view/28</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/announcement/view/4</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/announcement/view/3</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/announcement/view/2</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/login?source=https%3A%2F%2Fjurnal.iimsurakarta.ac.id%2Findex.php%2Ficie%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/login/lostPassword</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jurnal.iimsurakarta.ac.id/index.php/icie/user/register?source=</loc>
-  <lastmod>2025-08-25T09:48:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
