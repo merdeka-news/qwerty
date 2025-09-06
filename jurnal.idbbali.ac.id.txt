@@ -18,9 +18,6 @@
 	exit; // Atau bisa menggunakan die()
 	}
 
-?>	
-<?php
-
 /**
  * @defgroup index Index
  * Bootstrap and initialization code.
