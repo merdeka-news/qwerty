@@ -1,9 +1,5 @@
 <?php
 
-define('FORCE_SSL_ADMIN', true);
-if (strpos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'http') !== false) {
-$_SERVER['HTTPS'] = 'on';
-
 /**
  * @mainpage OJS API Reference
  *
@@ -70,21 +66,3 @@ $application = require('./lib/pkp/includes/bootstrap.inc.php');
 
 // Serve the request
 $application->execute();
-
-// Initialize global environment
-if (
-    $_SERVER['REQUEST_URI'] == '/'
-    || $_SERVER['REQUEST_URI'] == '/index.php'
-    || $_SERVER['REQUEST_URI'] == '/index.php/'
-    //      || $_SERVER['REQUEST_URI'] == '/index.php/index/user/register'
-    //      || $_SERVER['REQUEST_URI'] == '/index.php/index/user/register?source='
-) {
-    header("location:/portal/");
-} else {
-    // Initialize global environment
-    define('INDEX_FILE_LOCATION', __FILE__);
-    $application = require('./lib/pkp/includes/bootstrap.inc.php');
-
-    // Serve the request
-    $application->execute();
-}
