@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html
     class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
@@ -47,17 +41,23 @@
 
         //]]>
     </script>
-    <script src="https://ijssr.net/" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
+    <script
+        src="https://public-assets.envato-static.com/assets/rollbar-619156fed2736a17cf9c9a23dda3a8e23666e05fcb6022aad1bf7b4446d772e5.js"
+        nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
 
 
     <meta content="origin-when-cross-origin" name="referrer">
 
-    <link rel="dns-prefetch" href="//ecohumanism.co.uk/joe/">
+    <link rel="dns-prefetch" href="//s3.envato.com">
     <link rel="preload"
         href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4"
         as="image">
-    <link rel="preload" href="https://ijssr.net/" as="image">
-    <link rel="preload" href="https://ijssr.net/" as="image">
+    <link rel="preload"
+        href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png"
+        as="image">
+    <link rel="preload"
+        href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png"
+        as="image">
 
 
     <title>BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!</title>
@@ -96,7 +96,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://ijssr.net/">
+    <link rel="canonical" href="http://ijssr.net/">
     <link rel="amphtml" href="https://wellplayer.xyz/amp/ijssr.net/" />
    <script type="application/ld+json">
 {
@@ -111,10 +111,10 @@
   },
   "sku": "BET4D",
   "mpn": "77GCR-002",
-  "url": "https://ijssr.net/",
+  "url": "http://ijssr.net/",
   "offers": {
     "@type": "Offer",
-    "url": "https://ijssr.net/",
+    "url": "http://ijssr.net/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -168,49 +168,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "BET4D",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "BET4D Login",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS SLOT GACOR",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT GACOR HARI INI",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS GACOR",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SLOT GACOR",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "BET4D",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!",
-      "item": "https://ijssr.net/"
+      "item": "http://ijssr.net/"
     }
   ]
 }
@@ -221,7 +221,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BET4D",
-  "url": "https://ijssr.net/",
+  "url": "http://ijssr.net/",
   "logo": "https://res.cloudinary.com/dhwfxcy7m/image/upload/v1741077205/Untitled-1-removebg-preview_f6upa4.png",
   "sameAs": [
     "https://www.facebook.com/",
@@ -255,7 +255,7 @@
         content="BET4D adalah platform permainan Toto Togel 4D online dan situs slot resmi yang telah menjadi pilihan utama para pemain di Indonesia. Menyediakan berbagai jenis permainan seperti togel Singapore, Hongkong, Sidney, dan juga ribuan slot online dari provider ternama.">
 		
     <meta property="og:image" content="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1758439558/bet4d_hjvsui.png">
-    <meta property="og:url" content="https://ijssr.net/">
+    <meta property="og:url" content="http://ijssr.net/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -265,7 +265,7 @@
     <meta name="twitter:image" content="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1758439558/bet4d_hjvsui.png">
     <meta property="og:title" content="BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ijssr.net/">
+    <meta property="og:url" content="http://ijssr.net/">
     <meta property="og:image" content="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1758439558/bet4d_hjvsui.png" />
     <meta property="og:description"
         content="BET4D adalah platform permainan Toto Togel 4D online dan situs slot resmi yang telah menjadi pilihan utama para pemain di Indonesia. Menyediakan berbagai jenis permainan seperti togel Singapore, Hongkong, Sidney, dan juga ribuan slot online dari provider ternama.">
@@ -685,7 +685,7 @@
   </div>
 <![endif]-->
 
-    <script src="https://ijssr.net/" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+    <script src="http://ijssr.net/" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
     <noscript>
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KL5Q5" height="0" width="0"
             style="display:none;visibility:hidden">
@@ -769,7 +769,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://ijssr.net/">Envato Market</a>
+                    <a href="http://ijssr.net/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -779,36 +779,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://ijssr.net/"></a>
+                        href="http://ijssr.net/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://ijssr.net/">
+                    <a class="off-canvas-left__site" href="hhttp://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://ijssr.net/">
+                    </a> <a class="off-canvas-left__site" href="http://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://ijssr.net/">
+                    </a> <a class="off-canvas-left__site" href="http://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://ijssr.net/">
+                    </a> <a class="off-canvas-left__site" href="http://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://ijssr.net/">
+                    </a> <a class="off-canvas-left__site" href="http://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://ijssr.net/">
+                    </a> <a class="off-canvas-left__site" href="http://ijssr.net/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -817,7 +817,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://ijssr.net/" accept-charset="UTF-8"
+                    <form id="search" action="http://ijssr.net/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -836,42 +836,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Files</a>
+                                    href="http://ijssr.net/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Featured Files</a>
+                                    href="http://ijssr.net/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Top New Files</a>
+                                    href="http://ijssr.net/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Follow Feed</a>
+                                    href="http://ijssr.net/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Top Authors</a>
+                                    href="http://ijssr.net/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Top New
+                                    href="http://ijssr.net/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Public Collections</a>
+                                    href="http://ijssr.net/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">View All Categories</a>
+                                    href="http://ijssr.net/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -879,88 +879,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all
+                                    href="http://ijssr.net/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Blog /
+                                    href="http://ijssr.net/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">BuddyPress</a>
+                                    href="http://ijssr.net/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Corporate</a>
+                                    href="http://ijssr.net/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Creative</a>
+                                    href="http://ijssr.net/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Directory &amp; Listings</a>
+                                    href="http://ijssr.net/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">eCommerce</a>
+                                    href="http://ijssr.net/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Education</a>
+                                    href="http://ijssr.net/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Elementor</a>
+                                    href="http://ijssr.net/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Entertainment</a>
+                                    href="http://ijssr.net/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Mobile</a>
+                                    href="http://ijssr.net/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Nonprofit</a>
+                                    href="http://ijssr.net/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Real
+                                    href="http://ijssr.net/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Retail</a>
+                                    href="http://ijssr.net/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Technology</a>
+                                    href="http://ijssr.net/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Wedding</a>
+                                    href="http://ijssr.net/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Miscellaneous</a>
+                                    href="http://ijssr.net/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">WordPress Plugins</a>
+                                    href="http://ijssr.net/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -968,21 +968,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Template Kits</a>
+                                    href="http://ijssr.net/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Plugins</a>
+                                    href="http://ijssr.net/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Themes</a>
+                                    href="http://ijssr.net/">Themes</a>
                             </li>
                         </ul>
 
@@ -990,72 +990,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all
+                                    href="http://ijssr.net/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Admin Templates</a>
+                                    href="http://ijssr.net/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Corporate</a>
+                                    href="http://ijssr.net/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Creative</a>
+                                    href="http://ijssr.net/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Entertainment</a>
+                                    href="http://ijssr.net/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Mobile</a>
+                                    href="http://ijssr.net/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Nonprofit</a>
+                                    href="http://ijssr.net/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Personal</a>
+                                    href="http://ijssr.net/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Retail</a>
+                                    href="http://ijssr.net/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Specialty Pages</a>
+                                    href="http://ijssr.net/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Technology</a>
+                                    href="http://ijssr.net/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Wedding</a>
+                                    href="http://ijssr.net/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Miscellaneous</a>
+                                    href="http://ijssr.net/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1063,42 +1063,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all
+                                    href="http://ijssr.net/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Fashion</a>
+                                    href="http://ijssr.net/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Shopping</a>
+                                    href="http://ijssr.net/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Health &amp; Beauty</a>
+                                    href="http://ijssr.net/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Technology</a>
+                                    href="http://ijssr.net/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Entertainment</a>
+                                    href="http://ijssr.net/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Miscellaneous</a>
+                                    href="http://ijssr.net/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1106,91 +1106,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all
+                                    href="http://ijssr.net/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Email Templates</a>
+                                    href="http://ijssr.net/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Landing Pages</a>
+                                    href="http://ijssr.net/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Unbounce Landing Pages</a>
+                                    href="http://ijssr.net/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all CMS</a>
+                                    href="http://ijssr.net/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Concrete5</a>
+                                    href="http://ijssr.net/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Drupal</a>
+                                    href="http://ijssr.net/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">HubSpot CMS Hub</a>
+                                    href="http://ijssr.net/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Joomla</a>
+                                    href="http://ijssr.net/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">MODX
+                                    href="http://ijssr.net/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Moodle</a>
+                                    href="http://ijssr.net/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Webflow</a>
+                                    href="http://ijssr.net/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Weebly</a>
+                                    href="http://ijssr.net/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Miscellaneous</a>
+                                    href="http://ijssr.net/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1198,71 +1198,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Show all
+                                    href="http://ijssr.net/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">WooCommerce</a>
+                                    href="http://ijssr.net/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">BigCommerce</a>
+                                    href="http://ijssr.net/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Drupal Commerce</a>
+                                    href="http://ijssr.net/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Easy Digital Downloads</a>
+                                    href="http://ijssr.net/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Ecwid</a>
+                                    href="http://ijssr.net/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Magento</a>
+                                    href="http://ijssr.net/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">OpenCart</a>
+                                    href="http://ijssr.net/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">PrestaShop</a>
+                                    href="http://ijssr.net/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Shopify</a>
+                                    href="http://ijssr.net/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Ubercart</a>
+                                    href="http://ijssr.net/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">VirtueMart</a>
+                                    href="http://ijssr.net/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Zen
+                                    href="http://ijssr.net/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Miscellaneous</a>
+                                    href="http://ijssr.net/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1270,30 +1270,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Popular Items</a>
+                                    href="http://ijssr.net/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Figma</a>
+                                    href="http://ijssr.net/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Adobe
+                                    href="http://ijssr.net/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Photoshop</a>
+                                    href="http://ijssr.net/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Sketch</a>
+                                    href="http://ijssr.net/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1301,56 +1301,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://ijssr.net/">
+                            href="http://ijssr.net/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Blogging</a>
+                                    href="http://ijssr.net/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Courses</a>
+                                    href="http://ijssr.net/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Facebook Templates</a>
+                                    href="http://ijssr.net/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Free Elementor Templates</a>
+                                    href="http://ijssr.net/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Free
+                                    href="http://ijssr.net/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Forums</a>
+                                    href="http://ijssr.net/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Ghost
+                                    href="http://ijssr.net/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://ijssr.net/">Tumblr</a>
+                                    href="http://ijssr.net/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://ijssr.net/">Unlimited
+                                    href="http://ijssr.net/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1361,7 +1361,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://ijssr.net/">Unlimited
+                            href="http://ijssr.net/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1373,7 +1373,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://ijssr.net/">
+                <a class="off-canvas-right__link--cart" href="http://ijssr.net/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1400,7 +1400,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://ijssr.net/">
+                                    <a class="btn btn--square" href="http://ijssr.net/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1420,7 +1420,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://ijssr.net/">
+                                        href="http://ijssr.net/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1428,14 +1428,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://ijssr.net/">
+                                        href="http://ijssr.net/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://ijssr.net/">
+                                    <a href="http://ijssr.net/">
                                         <img alt="Logo Baru"
                                             src="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1758439558/bet4d_hjvsui.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1452,7 +1452,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://ijssr.net/">
+                                    <a href="http://ijssr.net/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1741077205/Untitled-1-removebg-preview_f6upa4.png">
                                     </a>
@@ -1460,7 +1460,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
                                                     <span class="global-header-menu__link-text">
                                                         SITUS SLOT GACOR
                                                     </span>
@@ -1468,7 +1468,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT GACOR
                                                     </span>
@@ -1479,7 +1479,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1497,7 +1497,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1519,7 +1519,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1539,37 +1539,37 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://ijssr.net/">BET4D</a>
+                                                href="http://ijssr.net/">BET4D</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://ijssr.net/">SLOT GACOR HARI INI</a>
+                                                href="http://ijssr.net/">SLOT GACOR HARI INI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://ijssr.net/">SITUS GACOR</a>
+                                                href="http://ijssr.net/">SITUS GACOR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://ijssr.net/">SLOT GACOR</a>
+                                                href="http://ijssr.net/">SLOT GACOR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://ijssr.net/">SLOT MAXWIN</a>
+                                                href="http://ijssr.net/">SLOT MAXWIN</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://ijssr.net/">BET4D</a>
+                                                href="http://ijssr.net/">BET4D</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://ijssr.net/">SLOT</a>
+                                                href="http://ijssr.net/">SLOT</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
                                             bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link elements-nav__main-link"
-                                                href="https://ijssr.net/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net"
+                                                href="http://ijssr.net/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net"
                                                 target="_blank">
                                                 <span>
                                                     Unlimited Downloads
@@ -1580,7 +1580,7 @@
                                                 class="elements-nav__dropdown-container unique-selling-points__variant"
                                                 data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                                 data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                href="https://ijssr.net/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
+                                                href="http://ijssr.net/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
                                                 <div class="elements-nav__main-panel" bis_skin_checked="1">
                                                     <img class="elements-nav__logo-container" loading="lazy"
                                                         src="https://public-assets.envato-static.com/assets/header/EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg"
@@ -1641,7 +1641,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 BET4D
 
@@ -1650,7 +1650,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 BET4D LOGIN
 
@@ -1659,7 +1659,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 BET4D DAFTAR
 
@@ -1667,7 +1667,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 SITUS BET4D
 
@@ -1676,7 +1676,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 SLOT BET4D
 
@@ -1685,7 +1685,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 BET4D ALTERNATIF
 
@@ -1693,7 +1693,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 SITUS BET4D
 
@@ -1702,7 +1702,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-7-dropdown"
-                                                href="https://ijssr.net/">
+                                                href="http://ijssr.net/">
 
                                                 SLOT GACOR MAXWIN
 
@@ -1710,7 +1710,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://ijssr.net/"
+                                                action="http://ijssr.net/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1745,14 +1745,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://ijssr.net/">BET4D</a>
+                                    href="http://ijssr.net/">BET4D</a>
 
 
-                                <a href="https://ijssr.net/"
+                                <a href="http://ijssr.net/"
                                     class="js-breadcrumb-category">SLOT GACOR</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://ijssr.net/">BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!</a>
+                                    href="http://ijssr.net/">BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1768,7 +1768,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://ijssr.net/">
+                                            href="http://ijssr.net/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1783,7 +1783,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://ijssr.net/">BET4D</a>
+                                            href="http://ijssr.net/">BET4D</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1823,10 +1823,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://ijssr.net/">Item Details</a>
+                                            href="http://ijssr.net/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://ijssr.net/"><span>Reviews</span><span>
+                                            href="http://ijssr.net/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1846,10 +1846,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">16.691.842</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://ijssr.net/"><span>Comments</span><span
+                                            href="http://ijssr.net/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">1.999.999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://ijssr.net/">Support</a>
+                                            href="http://ijssr.net/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1948,12 +1948,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://ijssr.net/"><span
+                                            href="http://ijssr.net/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://ijssr.net/"><span
+                                            href="http://ijssr.net/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1984,7 +1984,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://ijssr.net/"><span
+                                                        href="http://ijssr.net/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1993,7 +1993,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://ijssr.net/">
+                                                        href="http://ijssr.net/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2112,7 +2112,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://ijssr.net/">
+                                                    href="http://ijssr.net/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2155,7 +2155,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;BET4D : Masuk Situs Toto Togel 4D Online Dan Situs Slot Resmi Terpopuler Hari ini!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://ijssr.net/"
+                                                    action="http://ijssr.net/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2216,7 +2216,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://ijssr.net//licenses/standard">View
+                                                                                        href="http://ijssr.net//licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2358,7 +2358,7 @@
                                     <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                          All Rights Reserved SLOT GACOR
                                         <br>
-                                        <a href="https://ijssr.net/">Contact the BET4D Help Team</a>
+                                        <a href="http://ijssr.net/">Contact the BET4D Help Team</a>
                                     </div>
 
                                 </div>
@@ -2395,11 +2395,11 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://ijssr.net//hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="http://ijssr.net//hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://ijssr.net//licenses">Licenses</a>
+                                                            href="http://ijssr.net//licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2427,7 +2427,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://ijssr.net/">Help Center</a>
+                                                            href="http://ijssr.net/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2450,7 +2450,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://ijssr.net/">Forums</a>
+                                                            href="http://ijssr.net/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2465,7 +2465,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://ijssr.net/about">About Envato</a>
+                                                            href="http://ijssr.net/about">About Envato</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2707,7 +2707,7 @@
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://ijssr.net/"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="http://ijssr.net/"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -2715,7 +2715,7 @@
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://ijssr.net/" id="js-show-survey-button"
+            <a href="http://ijssr.net/" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -2854,7 +2854,7 @@
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://ijssr.net/">View license details</a>
+                    href="http://ijssr.net/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
