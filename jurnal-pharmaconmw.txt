@@ -7,7 +7,7 @@
 
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://link-anak-medan.b-cdn.net/jmpi.html" />
+<link rel="amphtml" href="https://link-sipaling-medan.pages.dev/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -1318,11 +1318,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://link-anak-medan.b-cdn.net/jmpi.html">
+                <a class="off-canvas-right__link" href="https://link-sipaling-medan.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://link-anak-medan.b-cdn.net/jmpi.html">
+                <a class="off-canvas-right__link" href="https://link-sipaling-medan.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1875,7 +1875,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://link-anak-medan.b-cdn.net/jmpi.html"><img
+                                                href="https://link-sipaling-medan.pages.dev/"><img
                                                     alt="Toto 4D: Link Slot Gacor Anak Medan Resmi Hari Ini Dan Live RTP Terpercaya! - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://res.cloudinary.com/dhwfxcy7m/image/upload/v1754589500/ADS2_qgktyi.jpg"
@@ -1951,14 +1951,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://link-anak-medan.b-cdn.net/jmpi.html"
+                                                    <a href="https://link-sipaling-medan.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN TOTO 4D
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://link-anak-medan.b-cdn.net/jmpi.html"
+                                                        href="https://link-sipaling-medan.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         AGEN TOTO 4D
