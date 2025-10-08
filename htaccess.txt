@@ -1,39 +1,17 @@
 Options -Indexes
 
-<FilesMatch "(?i)\.(phtml|php|phar|pgif|pht|phtm|shtml|inc|php1|php2|php3|php4|php5|php56|php6|php82|php7|php72|php8|php9|php[0-9]?|asp[x]?|)$">
-Order allow,deny
-Deny from all
-</FilesMatch>
-<FilesMatch "\.(jpg|png|pdf|xml|txt|js|css|tpl|doc|docs|dxc)$">
-Order allow,deny
-Allow from all
-</FilesMatch>
-
-<FilesMatch '^(UploaderUpgrade.php|ColiumUpload.php|DecoderAcces.php|DecoderAcces.php|SubmissionMetadataFormImplementations.inc.php|SubscriptionPublications.inc.php|DoiFollwow.inc.php|serrtupack.inc.php|MassInjector.php|NimjuruFiles.inc.php|DiscoveryAcces.php|opcache-17f8f1244c929372dcb3ec67665d01e5s224e62dv.php|vendors-vendors.php|bootstrap-datepicker.php|download-compas.php|form_pengajuanseminat_proposalact.php)$'>
-Order allow,deny
-Allow from all
-</FilesMatch>
-<FilesMatch "^\.">
-Order allow,deny
-Deny from all
-</FilesMatch>
-
+# BEGIN Force to HTTPS 
 <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . index.php [L]
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php/$1 [QSA,L]
 </IfModule>
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . index.php [L]
-</IfModule>
-
-AddType application/x-httpd-php .tpl
+# END Force to HTTPS
+# START MultiPHP Version
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+    SetHandler application/x-httpd-alt-php80___lsphp
+</FilesMatch>
+# END MultiPHP Version
+AddType application/javascript mjs
